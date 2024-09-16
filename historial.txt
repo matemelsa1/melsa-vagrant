@@ -1,0 +1,117 @@
+    1  ls
+    2  whoami
+    3  pwd
+    4  man man
+    5  ls -l
+    6  ls -la
+    7  echo "hola"
+    8  echo $HOME
+    9  ls
+   10  cd repogit
+   11  ls
+   12  salir
+   13  exit
+   14  ls
+   15  ls - la
+   16  ls-la
+   17  ls -ls
+   18  ls-la
+   19  ls - la
+   20  ls
+   21  ls- la
+   22  ssh-keygen -t ed25519
+   23  cd . .
+   24  ssh-keygen -t ed25519
+   25  cd .shh
+   26  repogit
+   27  cd repogit
+   28  git status
+   29  ssh-keygen -t ed25519
+   30  ls - la
+   31  ls -la
+   32  cd .shh
+   33  cd ..
+   34  ls
+   35  cd vagrant
+   36  ls
+   37  cd repogit
+   38  ls
+   39  ssh-keygen -t ed25519
+   40  ls -la
+   41  cd .ssh
+   42  exit
+   43  ls
+   44  whoami
+   45  pwd
+   46  man man 
+   47  ls
+   48  ls -la
+   49  home
+   50  HOME
+   51  clear
+   52  ls
+   53  cd repogit/
+   54  ls
+   55  ls -la
+   56  cd ..
+   57  ls
+   58  cat README 
+   59  git clone https://github.com/matemelsa1/melsa-vagrant.git
+   60  ls
+   61  cd melsa-vagrant/
+   62  ls
+   63  history
+   64  history > historial.txt
+   65  ls
+   66  cat
+   67  cat historial.txt
+   68  git status
+   69  git add . 
+   70  git status
+   71  git commit -m "mi primer commit"
+   72  git config --global user.email "mateemelsa@gmail.com"
+   73  git config --global user.name "matemelsa1"
+   74  git commit -m "mi primer commit"
+   75  git push
+   76  ls
+   77  git push
+   78  exit
+   79  ls
+   80  ls -la
+   81  cat .ssh
+   82  ssh-keygen -t ed25519
+   83  ls -la
+   84  vagrant ssh
+   85  ls -la
+   86  cd .ssh
+   87  ls
+   88  cat id_ed25519.pub
+   89  clip ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHZYEr8p4aAu+DkhG5Lj6q8PdZ7SmVCZlurNce3irFN4 vagrant@VMPruebas
+   90  cd ..
+   91  ssh-keygen -t ed15519
+   92  cd ..
+   93  ls
+   94  ls -la
+   95  cat .ssh
+   96  ssh-keygen -t ed25519
+   97  ls
+   98  ls -la
+   99  cd .ssh
+  100  ls
+  101  cat id_ed25519.pub
+  102  cd ..
+  103  ls
+  104  cd repogit/
+  105  ls
+  106  cd ..
+  107  ls
+  108  cd vagrant/
+  109  ls
+  110  cd repogit/
+  111  ls
+  112  git clone git@github.com:matemelsa1/melsa-vagrant.git
+  113  ls
+  114  cd melsa-vagrant/
+  115  ls
+  116  history
+  117  history > historial.txt
